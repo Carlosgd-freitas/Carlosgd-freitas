@@ -2,8 +2,8 @@
 
 My name is Carlos, and i'm currently a Computer Science undergraduate at Universidade Federal de Ouro Preto.
 
-- 💻 Backend Developer
-- ⚙️ Deep Learning
+- ⚙️ Data Engineering
+- 🤖 Deep Learning
 - 🔭 Looking foward to learn about any languages, frameworks and other technologies that I'm not familiar with
 
 ---
@@ -12,6 +12,7 @@ My name is Carlos, and i'm currently a Computer Science undergraduate at Univers
 ### Languages
 <div style="display: inline_block">
 <img align="center" alt="python" height="30" width="100" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img align="center" alt="PostgreSQL" height="30" width="120" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img align="center" alt="C" height="30" width="60" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 <img align="center" alt="C++" height="30" width="80" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
