@@ -1,4 +1,4 @@
-### ```printf("Hello World")```
+### ```printf("Hello World");```
 
 My name is Carlos, and I have a bachelor's degree in Computer Science from the Universidade Federal de Ouro Preto.
 
