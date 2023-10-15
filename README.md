@@ -1,6 +1,6 @@
 ### ```printf("Hello World")```
 
-My name is Carlos, and i'm currently a Computer Science undergraduate at Universidade Federal de Ouro Preto.
+My name is Carlos, and I have a bachelor's degree in Computer Science from the Universidade Federal de Ouro Preto.
 
 - ⚙️ Data Engineering
 - 🤖 Deep Learning
